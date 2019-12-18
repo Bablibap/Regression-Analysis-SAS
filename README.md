@@ -1,4 +1,4 @@
-# SAS
+# Generating Donations for NGO
 A non-profit-organization with a million members is working on a fundraising campaign. This document proposes an uplift marketing model that can be used to build and aid direct contact campaign for the following year.
 # What is the problem?
 One of the biggest challenges NGOs must face regularly, is their ability to secure enough funds for their continued existence. NGOs are reliant on not only the number of donations but also the amount of donations made by their members. To serve this purpose, NGOs organize fund raising events. The main aim of these campaigns is to contact as many “persuadable” members as possible to generate the highest amount of donations. However, there is a cost associated with every person who is contacted. The ultimate business goal is to increase campaign response, increase return on investment, and increase overall market rate. The target population of interest are the members of the NGO. A small sample of 1,000,000 members were selected to build and train the uplift marketing model.
